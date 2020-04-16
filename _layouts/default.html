@@ -16,22 +16,12 @@
   </head>
   
 <body>
-  
-  
-   
-<table width="100%">
-<tbody>
-<tr>
-<td width="20%"><img></td>
-<td width="40%">empty intentionally</td>
-<td width="40%">empty intentionally</td>
-</tr>
-<tr>
-<td>
 
+
+<div id="main" role="main" class="container">
   <div class="wrapper-masthead">
      <div class="container">
-       <header class="masthead clearfix">
+       <header class="masthead">
          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
          <div class="site-info">
@@ -42,22 +32,17 @@
          <nav>
            <a href="{{ site.baseurl }}/">Blog</a>
            <a href="{{ site.baseurl }}/about">About</a>
+           {% for post in site.posts %}
+           <a href="{{ post.url }}">{{ post.title }}</a>
+           {% endfor %}
          </nav>
        </header>
      </div>
    </div>
-
-</td>
-<td>
-  
-  <div id="main" role="main" class="container">
-       {{ content }}
-     </div>
-     
-  <td>arabic translation here</td>
-</tr>
-</tbody>
-</table>
+   <div>
+     {{ content }}
+   </div>
+</div>
 
 <div class="wrapper-footer">
      <div class="container">

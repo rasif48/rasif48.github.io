@@ -246,6 +246,16 @@ nav {
 // .main
 //
 
+#main {
+  display: grid;
+  grid-template-columns: 20% 80%;
+}
+
+.entry {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
