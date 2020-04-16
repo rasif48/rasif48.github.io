@@ -180,6 +180,10 @@ nav {
 
 #main {
   display: flex;
+
+  @include mobile {
+    flex-direction: row;
+  }
 }
 
 .entry {
