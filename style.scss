@@ -9,6 +9,7 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 @import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
 
 /**************/
 /* BASE RULES */
@@ -66,10 +67,12 @@ h4 {
 }
 
 p {
+font-family: 'Amiri', serif;
   margin: 15px 0;
 }
 
 a {
+font-family: 'Amiri', serif;
   color: $blue;
   text-decoration: none;
 	cursor: pointer;
