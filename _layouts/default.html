@@ -18,30 +18,29 @@
 <body>
 
 
-<div id="main" role="main">
-  <div class="navbar">
-    <header class="masthead">
-      <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-    </header>
+  <div id="main" role="main">
+    <div class="navbar">
+      <header class="masthead">
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+      </header>
 
-         <div class="site-info">
-           <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-           <p class="site-description">{{ site.description }}</p>
-         </div>
+      <div class="site-info">
+        <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+        <p class="site-description">{{ site.description }}</p>
+      </div>
 
-         <nav>
-           <a href="{{ site.baseurl }}/">Blog</a>
-           <a href="{{ site.baseurl }}/about">About</a>
-           {% for post in site.posts %}
-           <a href="{{ post.url }}">{{ post.title }}</a>
-           {% endfor %}
-         </nav>
-     </div>
-   </div>
-   <div class="container">
-     {{ content }}
-   </div>
-</div>
+      <nav>
+        <a href="{{ site.baseurl }}/">Blog</a>
+        <a href="{{ site.baseurl }}/about">About</a>
+        {% for post in site.posts %}
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+    <div class="container">
+      {{ content }}
+    </div>
+  </div>
 
 <div class="wrapper-footer">
      <div class="container">
