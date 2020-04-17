@@ -188,7 +188,7 @@ nav {
   margin-top: 23px;
   font-family: 'Averia Libre', cursive;
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 400;
   flex-direction: column;
   margin-left: 5px;
 
@@ -197,6 +197,9 @@ nav {
   }
 
   a {
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
     color: $white;
     text-align: left;
     font-weight: 300;
