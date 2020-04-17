@@ -75,10 +75,22 @@ p {
 }
 
 a {
-font-family: 'Amiri', serif;
-  color: $blue;
+  font-family: 'Averia Libre', cursive;
+  color: $white;
+  font-weight: 400;
+  font-size: 18px;
+
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
+
+  @include mobile {
+    line-height: 1.4;
+  }
+	
+
   &:hover, &:active {
     color: $blue;
   }
