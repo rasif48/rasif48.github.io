@@ -83,19 +83,6 @@ font-family: 'Amiri', serif;
   }
 }
 
-a.site-name {
-
-  font-family: 'Averia Libre', cursive;
-  color: $white;
-  font-weight: 400;
-  font-size: 28px;
-  letter-spacing: 1px;
-  cursor: pointer;
-  &:hover, &:active {
-  color: $blue;
-  }
-}
-
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
@@ -161,6 +148,7 @@ img {
   font-weight: 400;
   cursor: pointer;
   font-size: 28px;
+  font-style: regular;
   letter-spacing: 1px;
 }
 
