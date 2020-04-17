@@ -1,16 +1,13 @@
 ---
 layout: post
-title: We are up and runing
+title: From the Ditch of Life
 english: "
-Now let's play around
-do it  
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+… I stood next to the (hole/ditch) of life, i don’t know why i stand there, or who is it that put me there. While people, in the path, passing by. So I examined the faces and the movements, wondering if I would find there what makes me different from them, and them from me. Wondering if I would understand what is it that is asked of me, despite of my novelty, confusion, ignorance and lack of experience. And so, I started admiring the people and envy them for what they have, for what I will never have. And I take console with the appearances of gloominess when it appear on them, to be a connection, even if (flimsy/ slight) between me and them. And still, I felt nothing but more of my confusion and helplessness, nothing more than a feeling that i am a shadow that is dispensable to these laughing (faces/folks)— even though this shadow is asked of so much that he does not know. And so, for a moment, I thought I have reached the bottom of despair, that I have became drunk (from the glass of bitterness). 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+And then, it dawned on me, that there is an intangible existence (an untouchable being) called happiness. And I felt an ardent passion to get to know what it is, to enjoy it. But then, I got to realize that there is nothing harder on the soul in its loneliness, and silence than its helplessness to get that violent feelings, and still to desperately need it…. .
 "
-arabic: "
-رصيف [رائف]
+arabic: "وقفت بجانب (حفرة / خندق) الحياة ، لا أعرف لماذا أقف هناك ، أو من هو الذي وضعني هناك. بينما يمر الناس في الطريق. لذلك قمت بفحص الوجوه والحركات ، متسائلة عما إذا كنت سأجد هناك ما يجعلني مختلفًا عنها ، وعنهم. أتساءل عما إذا كنت سأفهم ما هو المطلوب مني ، على الرغم من حداثتي ، والارتباك ، والجهل وقلة الخبرة. وهكذا ، بدأت بإعجاب الناس وأحسدهم على ما لديهم ، على ما لن أحصل عليه أبدًا. وأخذ وحدة التحكم مع مظاهر الكآبة عندما تظهر عليها ، لتكون اتصالًا ، حتى لو كان (ضعيف / طفيف) بيني وبينهم. ومع ذلك ، لم أشعر بشيء أكثر من ارتباك وعجز ، لا أكثر من شعور بأنني ظل قابل للاستغناء عن هذا الضحك (الوجوه / الأشخاص) - على الرغم من أن هذا الظل مطلوب كثيرًا لدرجة أنه لا يعرف . وهكذا ، للحظة ، ظننت أنني وصلت إلى قاع اليأس ، وقد أصبحت في حالة سكر (من كأس المرارة).
+
+ومن ثم ، فجرعني ، أن هناك وجودًا غير ملموس (كائن لا يمكن المساس به) يسمى السعادة. وشعرت بشغف شديد للتعرف على ماهيتها والاستمتاع بها. ولكن بعد ذلك ، أدركت أنه لا يوجد شيء أصعب على الروح في وحدتها ، وصمتًا من عجزها عن الحصول على تلك المشاعر العنيفة ، وما زلت في أمس الحاجة إليها ... .
 "
 ---
