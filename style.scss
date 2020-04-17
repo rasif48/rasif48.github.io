@@ -141,8 +141,11 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 
+
 .site-name {
-  margin: 0;
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
   font-family: 'Averia Libre', cursive;
   color: $white;
   font-weight: 400;
