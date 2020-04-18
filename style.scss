@@ -35,9 +35,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Averia Sans Libre', cursive;
+  font-family: 'Averia Serif Libre', cursive;
   color: $white;
-  font-weight: 400;
+  font-weight: 300;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -51,6 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-family: 'Averia Serif Libre', cursive;
   font-size: 24px;
+  font-weight: 400;
   a {
     color: inherit;
   }
