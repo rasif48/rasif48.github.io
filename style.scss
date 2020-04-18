@@ -9,8 +9,8 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 @import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Averia+Sans+Libre:ital,wght@0,300;0,400;1,300;1,400&family=Averia+Serif+Libre:ital,wght@0,300;0,400;1,300;1,400&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400&display=swap');
 /**************/
 /* BASE RULES */
 /**************/
@@ -166,7 +166,7 @@ img {
 
 
 .site-name {
-  font-family: 'Averia Sans Libre', cursive;
+  font-family: 'Tajawal', sans-serif;
   color: $white;
   font-weight: 400;
   cursor: pointer;
@@ -176,7 +176,7 @@ img {
 
 .site-info {
   margin: 0;
-  font-family: 'Averia Sans Libre', cursive;
+  font-family: 'Tajawal', sans-serif;
   color: $white;
   font-weight: 400;
   cursor: pointer;
@@ -197,7 +197,7 @@ img {
 nav {
   display: flex;
   margin-top: 23px;
-  font-family: 'Averia Sans Libre', cursive;
+  font-family: 'Tajawal', sans-serif;
   font-size: 18px;
   font-weight: 300;
   flex-direction: column;
