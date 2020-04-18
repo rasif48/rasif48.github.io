@@ -105,6 +105,15 @@ ul, ol {
   padding-left: 30px;
 }
 
+.post-nav-link {
+    font-family: inherit;
+    font-size: inherit;
+    color: $white;
+    text-align: right;
+    font-weight: inherit;
+    letter-spacing: 1px;
+}
+
 ul.post-list {
 	margin: 15px 230px;
 	padding-left: 30px;
@@ -288,6 +297,22 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.addinfo {
+  font-family: 'Tajawal', sans-serif;
+  color: $white;
+  font-weight: 300;
+  font-size: 14px;
+
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
+  text-decoration: none;
+
+  @include mobile {
+    line-height: 1.4;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
