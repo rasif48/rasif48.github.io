@@ -199,7 +199,7 @@ img {
 nav {
   display: flex;
   margin-top: 10px;
-  margin-left: 5px;
+  margin-left: 25px;
 	
   font-family: 'Tajawal', sans-serif;
   font-size: 18px;
@@ -214,7 +214,7 @@ nav {
     font-family: inherit;
     font-size: inherit;
     color: $white;
-    text-align: right;
+    text-align: left;
     font-weight: inherit;
     letter-spacing: 1px;
   }
