@@ -200,8 +200,7 @@ img {
 }
 
 .navbar {
-  position: absolute;
-  bottom: 0;
+  position: fixed;
   margin-left: 25px;
   margin-right: auto;
   margin-top: auto;
@@ -213,7 +212,8 @@ img {
 
 nav {
   display: flex;
-  position: fixed;
+  position: absolute;
+  bottom: 0;
 	
   font-family: 'Tajawal', sans-serif;
   font-size: 18px;
