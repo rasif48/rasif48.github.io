@@ -200,8 +200,8 @@ img {
 }
 
 .navbar {
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-left: 25px;
+  margin-right: auto;
   margin-top: auto;
   margin-bottom: 25px;
   max-width: 230px;
@@ -225,7 +225,7 @@ nav {
     font-family: inherit;
     font-size: inherit;
     color: $white;
-    text-align: center;
+    text-align: left;
     font-weight: inherit;
     letter-spacing: 1px;
   }
