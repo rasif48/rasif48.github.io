@@ -205,12 +205,13 @@ img {
   margin-top: auto;
   margin-bottom: 25px;
   max-width: 230px;
-  position: absolute;
+  position: relative;
 
 }
 
 nav {
   display: flex;
+  position: absolute;
 	
   font-family: 'Tajawal', sans-serif;
   font-size: 18px;
