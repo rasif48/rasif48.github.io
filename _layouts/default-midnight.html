@@ -45,9 +45,13 @@
     <!--    {% endfor %}  -->
       </nav>
     </div>
-    
-    
-    <div>
+        
+    <div class="container">
+      {{ content }}
+    </div>
+  </div>
+  
+  <div>
      <ul class="post-list">
       {% for post in site.posts %}
          <li>
@@ -55,13 +59,7 @@
          </li>
          {% endfor %}
        </ul>
-      </div>
-    
-    
-    <div class="container">
-      {{ content }}
-    </div>
-  </div>
+   </div>
 
 <div class="wrapper-footer">
      <div class="container">
