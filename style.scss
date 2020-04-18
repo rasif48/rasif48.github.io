@@ -192,14 +192,16 @@ img {
 
 .navbar {
   margin-left: 0px;
+  margin-right: 0px;
+  margin-top: auto;
+  margin-bottom: 25px;
   max-width: 230px;
   position: fixed;
+
 }
 
 nav {
   display: flex;
-  margin-top: 10px;
-  margin-left: 25px;
 	
   font-family: 'Tajawal', sans-serif;
   font-size: 18px;
