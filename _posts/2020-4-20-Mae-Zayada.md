@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-midnight
 title: From the Ditch of Life
 author: Mae Zayada, مي زياده
 translation: Sondos Shehadeh
