@@ -76,10 +76,32 @@ p {
 }
 
 a {
+  font-family: 'Averia Serif Libre', cursive;
+  color: $white;
+  font-weight: 400;
+  font-size: 20px;
+
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
+  text-decoration: none;
+  cursor: pointer;
+
+  @include mobile {
+    line-height: 1.4;
+  }
+	
+
+  &:hover, &:active {
+   text-decoration: underline;	  
+  }
+}
+
+a.nav-bar-links {
   font-family: 'Amiri', serif;
   color: $white;
   font-weight: 400;
-  ont-size: 20px;
+  font-size: 20px;
 
   line-height: 1.7;
   margin: 1em 0 15px;
