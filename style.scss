@@ -108,6 +108,7 @@ ul.post-list {
 	padding-left: 30px;
 	text-align: right;
 	list-style-type: none;
+	position: fixed;
 }
 
 ul {
@@ -184,12 +185,13 @@ img {
 }
 
 .site-avatar-container {
- position: relative;	
+ position: fixed;	
 }
 
 .navbar {
   margin-left: 0px;
   max-width: 230px;
+  position: fixed;
 }
 
 nav {
