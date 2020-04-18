@@ -1,6 +1,8 @@
 ---
 layout: post
 title: From the Ditch of Life
+author: Mae Zayada, مي زياده
+translation: Sondos Shehadeh
 english: "
 … I stood next to the (hole/ditch) of life, i don’t know why i stand there, or who is it that put me there. While people, in the path, passing by. So I examined the faces and the movements, wondering if I would find there what makes me different from them, and them from me. Wondering if I would understand what is it that is asked of me, despite of my novelty, confusion, ignorance and lack of experience. And so, I started admiring the people and envy them for what they have, for what I will never have. And I take console with the appearances of gloominess when it appear on them, to be a connection, even if (flimsy/ slight) between me and them. And still, I felt nothing but more of my confusion and helplessness, nothing more than a feeling that i am a shadow that is dispensable to these laughing (faces/folks)— even though this shadow is asked of so much that he does not know. And so, for a moment, I thought I have reached the bottom of despair, that I have became drunk (from the glass of bitterness). 
 
