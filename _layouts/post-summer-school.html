@@ -1,0 +1,25 @@
+---
+layout: default-summer-school
+---
+
+<article class="post">
+  {% if page.title %}
+  <h1>{{ page.title }}</h1>
+  {% endif %}
+
+  <div class="entry">
+    <div class="english">
+      {{ page.english }}
+    </div>
+    <div class="arabic">
+      {{ page.arabic }}
+    </div>
+  </div>
+
+  {% if page.date %}
+    <div class="date">
+      Written on {{ page.date | date: "%B %e, %Y" }}
+    </div>
+  {% endif %}
+
+</article>
