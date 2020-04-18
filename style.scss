@@ -76,10 +76,10 @@ p {
 }
 
 a {
-  font-family: 'Averia Sans Libre', cursive;
+  font-family: 'Amiri', serif;
   color: $white;
   font-weight: 400;
-  font-size: 18px;
+  ont-size: 20px;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -93,8 +93,7 @@ a {
 	
 
   &:hover, &:active {
-   color: $black;
-   background: $lightGray;	  
+   text-decoration: underline;	  
   }
 }
 
