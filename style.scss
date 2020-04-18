@@ -101,8 +101,7 @@ a {
 }
 
 ul, ol {
-  margin: 15px 0;
-  padding-left: 30px;
+  list-style-type: none
 }
 
 .post-nav-link {
@@ -112,7 +111,6 @@ ul, ol {
     text-align: right;
     font-weight: inherit;
     letter-spacing: 1px;
-    list-style-type: none;
 }
 
 .post-midnight-container {
