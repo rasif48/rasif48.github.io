@@ -198,11 +198,12 @@ img {
 nav {
   display: flex;
   margin-top: 10px;
+  margin-left: 5px;
+	
   font-family: 'Tajawal', sans-serif;
   font-size: 18px;
   font-weight: 400;
   flex-direction: column;
-  margin-left: 5px;
 
   @include mobile {
     flex-direction: row;
@@ -211,10 +212,9 @@ nav {
   a {
     font-family: inherit;
     font-size: inherit;
-    font-weight: inherit;
     color: $white;
     text-align: right;
-    font-weight: 300;
+    font-weight: inherit;
     letter-spacing: 1px;
   }
 }
