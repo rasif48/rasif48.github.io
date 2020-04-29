@@ -11,12 +11,18 @@ layout: default-midnight
   {% endif %}
 
   <div class="entry">
-    <div class="english">
-      {{ page.english }}
-    </div>
-    <div class="arabic">
-      {{ page.arabic }}
-    </div>
+    <ul class="carousel">
+      <li>
+        <div class="english">
+          {{ page.english }}
+        </div>
+      </li>
+      <li>
+        <div class="arabic">
+          {{ page.arabic }}
+        </div>
+      </li>
+    </ul>
   </div>
 
   {% if page.date %}
@@ -24,5 +30,14 @@ layout: default-midnight
       Written on {{ page.date | date: "%B %e, %Y" }}
     </div>
   {% endif %}
+
+  <script type="text/javascript">
+    var carousel;
+$(document).ready(function () {
+    carousel = $(".carousel");
+  carousel.itemslide({disable_scroll: true});
+});
+
+  </script>
 
 </article>
