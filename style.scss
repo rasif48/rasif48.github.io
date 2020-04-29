@@ -178,17 +178,17 @@ img {
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  background-color: #f2cd5c;
 }
 
 /* Tooltip text */
 .tooltip .tooltiptext {
   visibility: hidden;
   font-family: 'Tajawal', sans-serif;
-  color: $white;
+  color: $black;
   font-weight: 300;
-  font-size: 8px;
-  width: 120px;
+  font-size: 11px;
+  width: 150px;
   background-color: #f2cd5c;
   text-align: center;
   padding: 5px 0;
