@@ -179,6 +179,7 @@ img {
   position: relative;
   display: inline-block;
   background-color: #db8454;
+  text-indent: 0px;
 }
 
 /* Tooltip text */
@@ -191,12 +192,14 @@ img {
   width: 150px;
   background-color: #f2cd5c;
   text-align: center;
-  padding: 5px 0;
+  padding: 0px 0;
   border-radius: 6px;
+  text-indent: 0px;
  
   /* Position the tooltip text - see examples below! */
   position: absolute;
-  z-index: 1;
+  top: 0px;
+  left: 80%; 
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
