@@ -3,7 +3,7 @@ layout: post-midnight
 title: 02 Hahas Cow
 author: Sheikh Imam, الشيخ إمام
 translation: Sana A
-english: '<p><b>Haha's Cow</b><br>The mourners grieved over Haha’s young cow
+english: '<p><b>Hahas Cow</b><br>The mourners grieved over Hahas young cow
 A milch cow, milking honey<br>
 The milk was stolen, by the people of the house<br>
 The house has owners, 11 doors,<br>
