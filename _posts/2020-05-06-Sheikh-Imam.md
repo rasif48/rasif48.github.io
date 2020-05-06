@@ -19,7 +19,8 @@ it fell out of fear<br>
 why fear? <br>
 because of the lack of vision, <br>
 It fell because of hunger, the brown young cow.<br>
-The mourners grieved over Haha and as well his cow.  </p>'
+The mourners grieved over Haha and as well his cow.  
+</p>'
 arabic: '<p><b>بقرة .. حاحا</b><br>
 ناح النواح و النواحة <br>
 على بقرة حاحا النطاحة <br>
@@ -42,6 +43,7 @@ arabic: '<p><b>بقرة .. حاحا</b><br>
 و قعت م الجوع و م الراحة <br>
 البقرة السمرا النطاحة <br>
 ناحت مواويل النواحة <br>
-على حاحة و على بقرة حاحا</p>'
+على حاحة و على بقرة حاحا
+</p>'
 
 ---
