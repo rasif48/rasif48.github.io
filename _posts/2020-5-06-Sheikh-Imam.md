@@ -1,6 +1,6 @@
 ---
 layout: post-midnight
-title: 02 Haha's Cow
+title: 02 Hahas Cow
 author: Sheikh Imam, الشيخ إمام
 translation: Sana A
 english: '<p><b>Haha's Cow</b><br>The mourners grieved over Haha’s young cow
