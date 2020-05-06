@@ -52,6 +52,6 @@ A promise is a debt! <br>
 A promise is a debt! (English idiom: A promise is a promise)<br>
 </p>'
 arabic: '
-<iframe width="100" height="100" src="https://www.youtube.com/embed/WVIxKFkUinw?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+<iframe width="150" height="100" src="https://www.youtube.com/embed/WVIxKFkUinw?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 
 ---
