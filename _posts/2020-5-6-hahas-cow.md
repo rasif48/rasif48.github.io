@@ -3,8 +3,7 @@ layout: post-midnight
 title: 02 Hahas Cow
 author: Sheikh Imam, الشيخ إمام
 translation: Sana A
-english: '<p><b>Hahas Cow</b><br>The mourners grieved over Hahas young cow
-A milch cow, milking honey<br>
+english: '<p>The mourners grieved over <span class=“tooltip">Hahas young cow<span class="tooltiptext">Haha can refer to both an Egyptian name, but also to the words a farmer would yell at his stock to move.</span></span> <br>A milch cow, milking honey<br>
 The milk was stolen, by the people of the house<br>
 The house has owners, 11 doors,<br>
 cellars, and wells.<br>
