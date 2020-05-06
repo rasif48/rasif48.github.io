@@ -3,7 +3,8 @@ layout: post-midnight
 title: 02 Hahas Cow
 author: Sheikh Imam, الشيخ إمام
 translation: Sana A
-english: '<p>The mourners grieved over<span class=“tooltip">Hahas young cow<span class="tooltiptext">Haha can refer to both an Egyptian name, but also to the words a farmer would yell at his stock to move.</span></span><br>
+english: "<p>The mourners grieved over 
+<span class='tooltip'>Hahas young cow<span class='tooltiptext'>Haha can refer to both an Egyptian name, but also to the words a farmer would yell at his stock to move.</span></span><br>
 A milch cow, milking honey<br>
 The milk was stolen, by the people of the house<br>
 The house has owners, 11 doors,<br>
@@ -20,8 +21,8 @@ why fear? <br>
 because of the lack of vision, <br>
 It fell because of hunger, the brown young cow.<br>
 The mourners grieved over Haha and as well his cow.  
-</p>'
-arabic: '<p><b>بقرة .. حاحا</b><br>
+</p>"
+arabic: "<p><b>بقرة .. حاحا</b><br>
 ناح النواح و النواحة <br>
 على بقرة حاحا النطاحة <br>
 و البقرة حلوب .. تحلب قنطار <br>
@@ -44,6 +45,6 @@ arabic: '<p><b>بقرة .. حاحا</b><br>
 البقرة السمرا النطاحة <br>
 ناحت مواويل النواحة <br>
 على حاحة و على بقرة حاحا
-</p>'
+</p>"
 
 ---
