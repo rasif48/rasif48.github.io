@@ -3,7 +3,7 @@ layout: post-midnight
 title: 03 wahabt omri lel Amal
 author: Sheikh Imam, الشيخ إمام
 translation: Omar H
-english: "<p>
+english: '<p>
 I endowed 'dedicated' my life for hope; hope has never come<br>
 And I flooded my land with my sweat; I never harvested <br>
 <br>
@@ -50,8 +50,8 @@ Or, we bravely revolt. <br>
 <br>
 A promise is a debt! <br>
 A promise is a debt! (English idiom: A promise is a promise)<br>
-</p>"
-arabic: 
-<iframe width="100" height="100" src="https://www.youtube.com/embed/WVIxKFkUinw?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>'
+arabic: '
+<iframe width="100" height="100" src="https://www.youtube.com/embed/WVIxKFkUinw?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 
 ---
